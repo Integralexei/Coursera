@@ -18,6 +18,7 @@ def format_t(t):
     minutes = "0"
     seconds = "00"
     tenth = "0"
+    
     if t < 10:
         tenth = str(time)
         
