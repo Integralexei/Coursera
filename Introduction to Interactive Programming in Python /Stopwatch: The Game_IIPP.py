@@ -1,10 +1,11 @@
 # "Stopwatch: The Game"
 """
 The aim of the game is to click at the time when the tenth fraction of a second is 0 (zero)
+http://www.codeskulptor.org/#user40_0UWQVO7H7aT2sF1_0.py
 """
 
 import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
-#testgit
+
 time = 0
 format_time = ""
 count_stops = 0
