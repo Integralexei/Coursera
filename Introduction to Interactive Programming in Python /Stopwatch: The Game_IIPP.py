@@ -4,7 +4,7 @@ The aim of the game is to click at the time when the tenth fraction of a second 
 """
 
 import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
-
+#testgit
 time = 0
 format_time = ""
 count_stops = 0
